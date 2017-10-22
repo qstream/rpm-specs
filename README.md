@@ -8,9 +8,9 @@ no suitable package was found.
 **NOTE**: The specs in this repo have been tested only on Amazon Linux
 environments.
 
-# How to build
+# How to build
 
-## Prerequisites
+## Prerequisites
 
 Install [Docker](//docker.com) on your machine. The build script
 provided by this repo will use the
